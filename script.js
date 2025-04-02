@@ -77,6 +77,3 @@ searchBtn.addEventListener("click", function() {
 
 fetchCountry()
 
-
-
-
